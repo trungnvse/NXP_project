@@ -1,0 +1,4 @@
+../source/boot/src/boot.c:25:6:jump_application	16	static
+../source/boot/src/boot.c:48:17:process_boot	80	static
+../source/boot/src/boot.c:141:6:roll_back	40	static
+../source/boot/src/boot.c:161:6:back_up	24	static

@@ -1,0 +1,4 @@
+../source/queue/src/queue.c:26:6:init_queue	16	static
+../source/queue/src/queue.c:32:6:add_element	16	static
+../source/queue/src/queue.c:58:7:get_queue	24	static
+../source/queue/src/queue.c:78:6:completed_process	8	static

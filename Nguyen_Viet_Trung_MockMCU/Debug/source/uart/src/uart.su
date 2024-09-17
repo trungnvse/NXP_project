@@ -1,0 +1,7 @@
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_MockMCU\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+../source/uart/src/uart.c:33:6:LPUART0_IRQHandler	8	static
+../source/uart/src/uart.c:42:6:register_take_data_from_uart	16	static
+../source/uart/src/uart.c:50:6:send_character	16	static
+../source/uart/src/uart.c:58:6:init_uart	32	static
+../source/uart/src/uart.c:107:6:cacul_baudrate_OSR32	24	static
+../source/uart/src/uart.c:113:6:cacul_baudrate	56	static

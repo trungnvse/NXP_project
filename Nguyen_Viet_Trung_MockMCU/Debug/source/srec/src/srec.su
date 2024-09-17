@@ -1,0 +1,7 @@
+../source/srec/src/srec.c:27:18:parse_srec	32	static
+../source/srec/src/srec.c:77:15:check_srec	32	static
+../source/srec/src/srec.c:87:6:check_line	144	static
+../source/srec/src/srec.c:149:15:Check_type_record	32	static
+../source/srec/src/srec.c:202:15:hex_to_dec	24	static
+../source/srec/src/srec.c:227:10:count_byte	24	static
+../source/srec/src/srec.c:241:15:Check_count_line	48	static

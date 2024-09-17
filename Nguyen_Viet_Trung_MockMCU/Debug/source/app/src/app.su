@@ -1,0 +1,7 @@
+../source/app/src/app.c:26:5:main	24	static
+../source/app/src/app.c:87:6:init_button	8	static
+../source/app/src/app.c:107:6:init_Led	8	static
+../source/app/src/app.c:129:6:turn_on_led_green	8	static
+../source/app/src/app.c:136:6:turn_on_led_red	8	static
+../source/app/src/app.c:143:6:turn_on_led_blue	8	static
+../source/app/src/app.c:150:6:turn_on_led_yellow	8	static
